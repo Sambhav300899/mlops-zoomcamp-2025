@@ -1,3 +1,6 @@
+> ⚠️ This is a fork of the original MLOps Zoomcamp repository, created for personal homework submissions. The original repository can be found [here](https://github.com/DataTalksClub/mlops-zoomcamp).
+
+
 <p align="center">
   <img width="80%" src="images/banner-2025.jpg" alt="MLOps Zoomcamp">
 </p>
